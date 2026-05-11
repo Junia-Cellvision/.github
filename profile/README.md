@@ -4,6 +4,8 @@ Automatiser l'étude des facteurs influant sur la mesure des signaux électro-ph
 
 ## Poster scientifique
 
-[Télécharger le poster](https://github.com/Junia-Cellvision/.github/blob/main/Poster%20CellVision.pdf)
+[Télécharger le poster pdf](https://github.com/Junia-Cellvision/.github/blob/main/Poster%20CellVision.pdf)
 
+### Aperçu
 <img src="https://github.com/Junia-Cellvision/.github/blob/main/Poster%20CellVision.png"/>
+
